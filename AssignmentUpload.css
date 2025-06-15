@@ -1,0 +1,48 @@
+.assignment-upload {
+  padding: 1rem;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.upload-section {
+  margin-top: 1.5rem;
+  padding: 1.5rem;
+  border: 2px dashed #dee2e6;
+  border-radius: 8px;
+  background-color: #f8f9fa;
+}
+
+.progress {
+  height: 1.5rem;
+  border-radius: 0.75rem;
+  background-color: #e9ecef;
+}
+
+.progress-bar {
+  background-color: #0d6efd;
+  border-radius: 0.75rem;
+  transition: width 0.3s ease;
+}
+
+.assignment-submission {
+  padding: 1.5rem;
+  border: 1px solid #dee2e6;
+  border-radius: 8px;
+  background-color: #fff;
+}
+
+.submission-details {
+  margin-top: 1rem;
+}
+
+.feedback {
+  margin-top: 1rem;
+  padding: 1rem;
+  background-color: #f8f9fa;
+  border-radius: 6px;
+}
+
+.feedback p {
+  margin: 0.5rem 0 0;
+  color: #666;
+} 
